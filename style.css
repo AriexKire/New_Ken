@@ -55,8 +55,8 @@ nav a {
 }
 
 #home li {
-  margin-left: 5px;
-  padding-left: 50px;
+  margin-left: -10px;
+  padding-right: 10px;
 }
 
 .wrapper {
